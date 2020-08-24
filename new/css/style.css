@@ -212,7 +212,7 @@ a.scroll.bnr-btn i{
 
 .banner-w3pvt {
 	background: url(../images/bannernew.png) no-repeat center;
-	background-size: cover;
+	background-size: contain;
 	position: relative;
 }
 
